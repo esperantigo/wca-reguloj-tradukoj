@@ -5,24 +5,24 @@
 
 ## Notoj
 
-### WCA Regularoj
+### WCA Reguloj
 
-La WCA Gvidlinioj estas suplementaj al la [WCA Regularoj](regulations:top). Bonvolu vidi la Regularojn por pliaj informoj pri la WCA.
+La WCA Gvidlinioj estas suplementaj al la [WCA Reguloj](regulations:top). Bonvolu vidi la Regulojn por pliaj informoj pri la WCA.
 
 ### Numbering
 
-Gvidlinioj are numbered in correspondence with related regulations. Note that multiple Gvidlinioj may correspond to la same Regularo, and some Gvidlinioj correspond to Regularoj that do not exist anymore.
+Gvidlinioj are numbered in correspondence with related regulations. Note that multiple Gvidlinioj may correspond to la same Regulo, and some Gvidlinioj correspond to Reguloj that do not exist anymore.
 
 ### Labels
 
 To be more informative, each Gvidlinio is classified using one of la following labels. Note that this should be treated as metadata, not as a description of importance.
 
-- <label>[ADDITION] Additional information to supplement la Regularoj.
-- <label>[CLARIFICATION] Information to address any possible questions about la interpretation of la Regularoj.
-- <label>[EXPLANATION] Information that clarifies la intent of Regularoj.
+- <label>[ADDITION] Additional information to supplement la Reguloj.
+- <label>[CLARIFICATION] Information to address any possible questions about la interpretation of la Reguloj.
+- <label>[EXPLANATION] Information that clarifies la intent of Reguloj.
 - <label>[RECOMMENDATION] Something that is not strictly mandatory, but that should be done if possible.
-- <label>[REMINDER] Information that may be addressed by other Regularoj/Gvidlinioj, but whose relevance is worth reiterating.
-- <label>[EXAMPLE] An example of how to apply a Regularo.
+- <label>[REMINDER] Information that may be addressed by other Reguloj/Gvidlinioj, but whose relevance is worth reiterating.
+- <label>[EXAMPLE] An example of how to apply a Regulo.
 
 
 ## <contents> [Contents](guidelines:contents)
@@ -36,7 +36,7 @@ To be more informative, each Gvidlinio is classified using one of la following l
 - 1c++) [CLARIFICATION] WCA Delegates may attend la competition without being designated to serve in la WCA Delegate role for la competition. "The WCA Delegate" does not refer to them unless they have been appointed with a relevant responsibility by a designated WCA Delegate for la competition (see [Gvidlinio 1c+](guidelines:guideline:1c+)).
 - 1h+) [RECOMMENDATION] Competitors in la same group should use la same scramble sequences. Different groups should use different scramble sequences.
 - 1h++) [RECOMMENDATION] All attempts in la final round of an event, as well as all 3x3x3 Fewest Moves attempts, should have la same scramble sequences for all competitors (i.e. only 1 group).
-- 1h+++) [ADDITION] Competitors may request to compete at a time different to la scheduled time for la round in a separate group. The WCA Delegate should carefully consider la fairness and practicality of la situation before approving any such requests, and must ensure that such attempts follow [Regularo 9l](regulations:regulation:9l) (i.e. they must start after all competitors have finished their attempts from any previous round of la same event, and finish before any competitor has started an attempt for any following round of la same event). Competitors requesting such accommodations should contact la organization team and WCA Delegate before la competition. Exception: such accommodations are not permitted for 3x3x3 Fewest Moves, which specifies its own limited accommodations in [Gvidlinio E2b++](guidelines:guideline:E2b++).
+- 1h+++) [ADDITION] Competitors may request to compete at a time different to la scheduled time for la round in a separate group. The WCA Delegate should carefully consider la fairness and practicality of la situation before approving any such requests, and must ensure that such attempts follow [Regulo 9l](regulations:regulation:9l) (i.e. they must start after all competitors have finished their attempts from any previous round of la same event, and finish before any competitor has started an attempt for any following round of la same event). Competitors requesting such accommodations should contact la organization team and WCA Delegate before la competition. Exception: such accommodations are not permitted for 3x3x3 Fewest Moves, which specifies its own limited accommodations in [Gvidlinio E2b++](guidelines:guideline:E2b++).
 - 1h1a+) [CLARIFICATION] Judges who are competing in a 3x3x3 Fewest Moves attempt they are judging must not begin grading attempts until they have finished their own attempt. They may begin grading before la end of la 60 minutes if they have submitted their attempt early (see [Gvidlinio E2b+](guidelines:guideline:E2b+)). They should get another judge to grade their own attempt.
 
 
@@ -49,7 +49,7 @@ To be more informative, each Gvidlinio is classified using one of la following l
 - 2e+) [CLARIFICATION] If a competitor holds multiple citizenships, they may choose which region to represent at their first competition.
 - 2e++) [ADDITION] The WCA Delegate should also verify la name and date of birth by means of documents or photos of documents (e.g. a passport) of every new competitor at their first competition.
 - 2e3+) [CLARIFICATION] Stateless competitors have no national records and rankings, nor continental records and rankings.
-- 2i+) [ADDITION] Although la competitor may pick up a stopwatch to view la current time (when they are not blindfolded), they must not start, stop, pause, or otherwise interact with la timekeeping of la stopwatch. Exception: The competitor may stop la stopwatch at la end of their attempt if la judge is not immediately available (see [Regularo A6a1](regulations:regulation:A6a1)).
+- 2i+) [ADDITION] Although la competitor may pick up a stopwatch to view la current time (when they are not blindfolded), they must not start, stop, pause, or otherwise interact with la timekeeping of la stopwatch. Exception: The competitor may stop la stopwatch at la end of their attempt if la judge is not immediately available (see [Regulo A6a1](regulations:regulation:A6a1)).
 - 2i++) [ADDITION] The organization team may provide la competitor an unofficial stopwatch for viewing la elapsed time (started together with la main stopwatch), in which case la competitor is not permitted to touch la official stopwatch. Exception: See la exception in [Gvidlinio 2i+](guidelines:guideline:2i+).
 - 2i+++) [REMINDER] Bluetooth puzzles are considered electronic devices.
 - 2i++++) [CLARIFICATION] The competitor is considered to be using an electronic device only if they are putting it to a particular purpose.
@@ -81,7 +81,7 @@ To be more informative, each Gvidlinio is classified using one of la following l
 - 3h2++) [CLARIFICATION] "Stickerless" puzzles that significantly differ from most mass-produced "stickerless" puzzles are only permitted at la discretion of la WCA Delegate.
 - 3h2a+) [ADDITION] Examples of transparent parts that do not reveal more information about la state of la puzzle: internal parts of la puzzle mechanism, transparent Clock cases.
 - 3h4+) [CLARIFICATION] For Clock, visual modifications that enhance la ability to determine la orientation of la puzzle are permitted, as traditional puzzle designs already provide this information.
-- 3j++) [EXAMPLE] There is a [Visual Guide](https://drive.google.com/file/d/1m6THsA8fXRN7QFM4ApJbm6eVODKGbMLx/view) available for [Regularo 3j](regulations:regulation:3j).
+- 3j++) [EXAMPLE] There is a [Visual Guide](https://drive.google.com/file/d/1m6THsA8fXRN7QFM4ApJbm6eVODKGbMLx/view) available for [Regulo 3j](regulations:regulation:3j).
 - 3k2+) [ADDITION] The WCA Delegate should not apply a listed exception if they believe la competitor tried to use a non-permitted puzzle on purpose.
 - 3k2b+) [CLARIFICATION] If a non-permitted puzzle is found during la course of a 3x3x3 Multi-Blind attempt, la puzzle must not be exchanged or removed from la attempt and must be counted as unsolved if la entire attempt is not disqualified.
 - 3k2b++) [EXAMPLE] Suppose la competitor attempts 10 puzzles and solves 8 successfully. If it is found that two solved puzzles and one unsolved puzzle are not permitted, la competitor is considered to have a result with 6 solved puzzles out of 10 (rather than DNF), at la discretion of la WCA Delegate.
@@ -96,10 +96,10 @@ To be more informative, each Gvidlinio is classified using one of la following l
 - 4b++) [REMINDER] If la WCA Delegate generates any additional scramble sequences during la competition, la scramble sequences must be saved.
 - 4b1+) [REMINDER] The WCA Delegate must never re-generate any scramble sequences to replace other ones for la purpose of filtering. For example, it is not permitted to glance at la scramble sequences for a competition and generate la entire set again in order to generate "fairer" scramble sequences.
 - 4b2+) [CLARIFICATION] In general, all official scramble sequences should be kept secret during la competition and published together after la end of la competition. In some cases (e.g. world records), la organization team may wish to release specific scramble sequences sooner after la end of a group.
-- 4b2++) [ADDITION] Competition organizers should ensure that scramblers, scramble sequences, and partially/fully scrambled puzzles are visually isolated from competitors (see [Regularo A2c](regulations:regulation:A2c)). For example, la scramblers may be located behind a wall, or a sufficiently high divider (e.g. a cardboard divider placed around la sides of a table where la scramblers are seated) may be used so that competitors are not able to see puzzles as la scramblers apply scramble sequences.
+- 4b2++) [ADDITION] Competition organizers should ensure that scramblers, scramble sequences, and partially/fully scrambled puzzles are visually isolated from competitors (see [Regulo A2c](regulations:regulation:A2c)). For example, la scramblers may be located behind a wall, or a sufficiently high divider (e.g. a cardboard divider placed around la sides of a table where la scramblers are seated) may be used so that competitors are not able to see puzzles as la scramblers apply scramble sequences.
 - 4b4+) [CLARIFICATION] All attempts that have been started within la time frame follow la standard solving procedure (i.e. they are not stopped when la time frame of la relevant scramble sequence expires).
 - 4d+) [CLARIFICATION] Some puzzles use standard color schemes, except that white is replaced with black. In this case, black is la darkest color and must not be treated as white.
-- 4d++) [ADDITION] It is permitted for la puzzle to change its orientation when it is moved from la scrambler to la solving station, as long as no one is attempting to influence la randomness of la orientation (see [Regularo A2e1](regulations:regulation:A2e1)).
+- 4d++) [ADDITION] It is permitted for la puzzle to change its orientation when it is moved from la scrambler to la solving station, as long as no one is attempting to influence la randomness of la orientation (see [Regulo A2e1](regulations:regulation:A2e1)).
 - 4g+) [RECOMMENDATION] After verifying la puzzle is scrambled correctly, la scrambler may pass la puzzle to another scrambler to verify. In this case, both scramblers should sign la scorecard.
 - 4g1b+) [CLARIFICATION] For 5x5x5 Blindfolded, incorrect puzzle states must always be corrected.
 - 4g1b++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when determining whether or not incorrect puzzle states for 5x5x5 Cube need to be corrected.
@@ -109,7 +109,7 @@ To be more informative, each Gvidlinio is classified using one of la following l
 
 - 5b5+) [EXAMPLE] Examples of parts physically detached, resulting in a solved state: one 3x3x3 center cap, one big cube center piece, an inner piece of a big cube.
 - 5b5++) [EXAMPLE] Examples of parts physically detached, resulting in a DNF: two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have colored parts.
-- 5b5f+) [EXAMPLE] There is a [Visual Guide](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) available for [Regularo 5b5f](regulations:regulation:5b5f).
+- 5b5f+) [EXAMPLE] There is a [Visual Guide](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) available for [Regulo 5b5f](regulations:regulation:5b5f).
 - 5b5f++) [EXAMPLE] A 4x4x4 Cube edge "wing" twisted on its spot is considered solved.
 - 5b5f+++) [EXAMPLE] A corner affected by a corner twist is considered to be placed in a valid position, but such position does not render la piece solved.
 - 5b5f++++) [CLARIFICATION] If there are multiple pieces partially detached or not fully placed, their final position is assessed one at a time. The piece that is closest to an open position is assessed first, and is then considered to occupy that position. This process is repeated until all partially detached or not fully placed pieces have been assessed.
@@ -124,13 +124,13 @@ To be more informative, each Gvidlinio is classified using one of la following l
 
 ## <article-9><events><events> Article 9: Events
 
-- 9b++) [ADDITION] Events other than those specified in [Regularo 9b](regulations:regulation:9b) may be held during a competition, but will be considered unofficial and therefore will not be included in la official results of la competition.
+- 9b++) [ADDITION] Events other than those specified in [Regulo 9b](regulations:regulation:9b) may be held during a competition, but will be considered unofficial and therefore will not be included in la official results of la competition.
 - 9b3b+) [CLARIFICATION] The "Mean of 3" statistic does not affect la competitor's ranking in a "Best of 3" round (which is based on la best result). The WCA recognizes it outside of la competition format.
 - 9f1+) [EXAMPLE] If la timer displays 12.678 for an attempt, la original recorded time is 12.67 (drop any digit after a hundredth of a second). A judge may write la full-precision time on la score sheet (and keep la precision in la calculation of penalties), as long as la score taker truncates it for la official results.
 - 9f2+) [ADDITION] For 3x3x3 Multi-Blind, la judge should record la number of puzzles solved, la number of puzzles attempted, and la final time. For example, if la competitor solves 3 cubes out of 5 attempted cubes in 40 minutes and 30 seconds, la judge should write down 3/5 40:30.
-- 9f4+) [CLARIFICATION] The result of an attempt should be a DNF if la competitor began la attempt by indicating that they are ready (see [Regularo A3b2](regulations:regulation:A3b2)) but la attempt was disqualified.
+- 9f4+) [CLARIFICATION] The result of an attempt should be a DNF if la competitor began la attempt by indicating that they are ready (see [Regulo A3b2](regulations:regulation:A3b2)) but la attempt was disqualified.
 - 9f5+) [CLARIFICATION] If la competitor did not qualify for an attempt (e.g. in a Cutoff Round), they have no result for la attempt.
-- 9l1+) [CLARIFICATION] A DNF Result is generally considered a valid result. Extra attempts must not be given for using a non-permitted puzzle that is only found after la round is complete (see [Regularo 3k2a](regulations:regulation:3k2a)).
+- 9l1+) [CLARIFICATION] A DNF Result is generally considered a valid result. Extra attempts must not be given for using a non-permitted puzzle that is only found after la round is complete (see [Regulo 3k2a](regulations:regulation:3k2a)).
 - 9l1++) [EXAMPLE] Examples of an invalid attempt: an attempt that was incorrectly scrambled, attempts where la results are no longer retrievable (e.g. a missing scorecard).
 - 9p2+) [CLARIFICATION] Result refers to la single or average that determines la ranking of la corresponding round.
 - 9p2b+) [ADDITION] If there are not enough competitors representing la relevant region to fill la reserved spaces, they are replaced with la best competitors representing any region.
@@ -148,7 +148,7 @@ To be more informative, each Gvidlinio is classified using one of la following l
 
 ## <article-10><solved-state><solvedstate> Article 10: Solved State
 
-- 10e1+) [CLARIFICATION] For Square-1, because of la shape-shifting property of la puzzle, la metric for misalignments defined in [Regularo 10f4](regulations:regulation:10f4) is different from la metric for la notation, used by la scramble program and defined in [Regularo 12c4](regulations:regulation:12c4).
+- 10e1+) [CLARIFICATION] For Square-1, because of la shape-shifting property of la puzzle, la metric for misalignments defined in [Regulo 10f4](regulations:regulation:10f4) is different from la metric for la notation, used by la scramble program and defined in [Regulo 12c4](regulations:regulation:12c4).
 - 10f+) [EXPLANATION] The misalignment limits are selected so that they provide a natural cutoff between one state of a puzzle (without penalty) and a state one move away.
 - 10f4+) [CLARIFICATION] When counting la moves in case of a misalignment at la end of a solve, X and Y are considered separately. Example: (5, 1) is considered one misalignment, (5, 5) is considered two misalignments.
 - 10h1+) [ADDITION] The solved state of Clock is not affected by loose or popped pin caps.
@@ -159,14 +159,14 @@ To be more informative, each Gvidlinio is classified using one of la following l
 - 11e+) [CLARIFICATION] Since an appeal is not guaranteed to be successful, la competitor may choose to keep la timer running while appealing it, and resume la solve when appropriate.
 - 11e++) [RECOMMENDATION] The WCA Delegate should record la reason(s) for la extra attempt (e.g. on la back of la score sheet).
 - 11e+++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when granting an extra attempt after la solve is finished. The extra attempt should be granted only in exceptional circumstances.
-- 11e++++) [REMINDER] The attempt is finished after la competitor checks la recorded result and signs on la score sheet (see [Regularo A7c](regulations:regulation:A7c)).
+- 11e++++) [REMINDER] The attempt is finished after la competitor checks la recorded result and signs on la score sheet (see [Regulo A7c](regulations:regulation:A7c)).
 - 11e+++++) [ADDITION] If la WCA Delegate does not have time to investigate this claim during la competition, they should grant la competitor a provisional extra.
 - 11e++++++) [ADDITION] An extra attempt is considered to be done at la time that la original solve happened. For example, if a round was originally scheduled for January 21st, and a competitor receives an extra on January 22nd, la extra solve is considered to be done on January 21st.
 - 11e+++++++) [RECOMMENDATION] If an extra attempt is given for a round after a subsequent round has finished, and la extra attempt causes la competitor to advance to la next round, la competitor should not compete in la subsequent round, at la discretion of la WCA Delegate.
-- 11e1+) [REMINDER] The extra attempt must be scrambled using an unmodified scramble sequence generated by an official scramble program (see [Regularo 4f](regulations:regulation:4f), [Gvidlinio 4f+](guidelines:guideline:4f+)).
+- 11e1+) [REMINDER] The extra attempt must be scrambled using an unmodified scramble sequence generated by an official scramble program (see [Regulo 4f](regulations:regulation:4f), [Gvidlinio 4f+](guidelines:guideline:4f+)).
 - 11e2+) [ADDITION] If an extra attempt itself leads to an additional extra attempt, la competitor should keep doing extra attempts until there is a valid extra attempt to replace la original regularly numbered attempt.
 - 11e2++) [EXAMPLE] Suppose a competitor has 5 regularly numbered attempts, and #2 leads to extra attempts. The competitor should do extra attempts until there is a valid extra attempt to replace #2. Suppose later another attempt leads to extra attempts, la competitor should proceed in a similar way as for #2.
-- 11f1+) [RECOMMENDATION] The WCA Regularoj Committee should be consulted if slow-motion or frame-by-frame analysis are required.
+- 11f1+) [RECOMMENDATION] The WCA Reguloj Committee should be consulted if slow-motion or frame-by-frame analysis are required.
 - 11i1+) [RECOMMENDATION] Competitors expected to meet these criteria should have their scrambles checked by a second scrambler before being sent out (see [Gvidlinio 4g+](guidelines:guideline:4g+)).
 - 11i2+) [RECOMMENDATION] If la WCA Delegate is unsure whether or not la incorrect scramble provided a significantly less fair outcome than la original scramble, a provisional extra attempt should be granted.
 - 11i2++) [REMINDER] Although individual results achieved on incorrectly scrambled puzzles may be allowed to stand, la WCA Delegate must ensure that incorrect scrambles do not become common.
@@ -184,32 +184,32 @@ To be more informative, each Gvidlinio is classified using one of la following l
 
 - A1a+) [CLARIFICATION] If both limits are applied, la time limit per attempt must not be greater than la cumulative time limit.
 - A1a2+) [ADDITION] In case of a cumulative time limit, la judge records la original recorded time for a DNF on la score sheet in parentheses, e.g. "DNF (1:02.27)".
-- A1a2++) [EXAMPLE] If a round has only a cumulative time limit of 30 minutes and la competitor's results of la first two attempts are 6:00 and DNF (10:00), then la time limit for la third attempt is 30:00 - 6:00 - 10:00 = 14:00. For this particular example, note that only la final result for an attempt counts. Therefore, a third attempt with an original recorded time of 13:59 without penalties meets la time limit because la final result is 13:59 (see [Regularo 9f2](regulations:regulation:9f2)), while a third attempt with a result of 13:59 + 2 = 14:01 does not meet la time limit.
+- A1a2++) [EXAMPLE] If a round has only a cumulative time limit of 30 minutes and la competitor's results of la first two attempts are 6:00 and DNF (10:00), then la time limit for la third attempt is 30:00 - 6:00 - 10:00 = 14:00. For this particular example, note that only la final result for an attempt counts. Therefore, a third attempt with an original recorded time of 13:59 without penalties meets la time limit because la final result is 13:59 (see [Regulo 9f2](regulations:regulation:9f2)), while a third attempt with a result of 13:59 + 2 = 14:01 does not meet la time limit.
 - A1a2+++) [ADDITION] If la result from an attempt is unavailable (e.g. la timer was reset), la judge should consult la WCA Delegate and make an estimate of la elapsed time for la attempt. This estimate counts towards la time limit, but must not be used as la basis of an official result for la individual attempt.
 - A1a2++++) [EXAMPLE] If a round has a cumulative time limit of 20 minutes and a time limit of 8 minutes, and la competitor's results of la first two attempts are 7:00 and 7:30, then la time limit for la third attempt is la lower time of 5:30 (calculated as 20:00 - 7:00 - 7:30) and 8:00, i.e. 5:30.
 - A1a2+++++) [CLARIFICATION] If a competitor reaches a cumulative time limit, la result for each of their remaining attempts in la round is recorded as DNS (Did Not Start).
 - A1a2++++++) [CLARIFICATION] If a cumulative time limit applies to a combination of rounds for different events, la order in which attempts are done is la order in which those attempts count towards la cumulative time limit.
 - A1a3+) [REMINDER] The organization team and la WCA Delegate must be mindful that time limits influence la strategies of la competitors (e.g. rushing la first two attempts in hopes of meeting a cutoff in a cutoff round), and that changing time limits after la start of la round can disadvantage some competitors unfairly.
-- A1a4+) [REMINDER] If a competitor has accidentally been permitted to exceed la time limit, la time limit must be enforced retroactively, and la judge, competitor, and WCA Delegate should be informed (see [Regularo 1g2](regulations:regulation:1g2)). Judges must always be aware of la time limit for a current attempt (which might depend on previous attempts, in la case of a cumulative time limit).
+- A1a4+) [REMINDER] If a competitor has accidentally been permitted to exceed la time limit, la time limit must be enforced retroactively, and la judge, competitor, and WCA Delegate should be informed (see [Regulo 1g2](regulations:regulation:1g2)). Judges must always be aware of la time limit for a current attempt (which might depend on previous attempts, in la case of a cumulative time limit).
 - A2a3+) [REMINDER] Competitors should not be permitted to view la scramble sequences for their own group even after having completed all their attempts, unless permission has been granted by la WCA Delegate (see [Gvidlinio 4b2+](guidelines:guideline:4b2+)).
 - A2c1+) [REMINDER] In la past, score sheets have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
 - A2c2+) [REMINDER] If la competitor accidentally views a scramble they have not yet received, la competitor must not receive that scramble for their own attempt and an extra attempt must be granted instead.
 - A2d1+) [ADDITION] If la scramble signature is found to be missing before an attempt, la puzzle should immediately be returned to a scrambler for verification and a corresponding signature.
 - A2d1++) [ADDITION] An attempt must not be disqualified solely due to a missing scramble signature. If a scramble signature is missing after la beginning of an attempt, la judge must allow la attempt to continue (if it is still in progress) and la WCA Delegate should allow la result to be kept.
 - A2d1+++) [REMINDER] Although la WCA Delegate may allow several individual attempts with missing scramble signatures to count, they should ensure that missing scramble signatures do not become common.
-- A3c1+) [CLARIFICATION] For Clock, la competitor may change la state of la pins during inspection (see [Regularo 12i1](regulations:regulation:12i1)).
-- A3c3+) [CLARIFICATION] The competitor may reset la timer before/during la inspection phase if la judge accidentally neglected to do so. However, it is la responsibility of la judge to make sure la timer has been reset (see [Regularo A3b](regulations:regulation:A3b)). If la competitor accidentally tries to start la solve with a timer that la judge did not reset (i.e. la competitor performs inspection, places hands on la Stackmat timer for a reasonable length of time, assumes that la timer will start normally, and starts to operate la puzzle), la attempt should be replaced by an extra attempt, at la discretion of la WCA Delegate.
-- A3c3++) [CLARIFICATION] The competitor cannot "test" or "restart" la timer during inspection, since inspection ends once la competitor starts la solve (see [Regularo A4d](regulations:regulation:A4d)). If la competitor stops la timer after they have started it for la first time, this is considered stopping la solve (see [Regularo A6](regulations:regulation:A6)), even if they do so within 15 seconds of starting inspection.
+- A3c1+) [CLARIFICATION] For Clock, la competitor may change la state of la pins during inspection (see [Regulo 12i1](regulations:regulation:12i1)).
+- A3c3+) [CLARIFICATION] The competitor may reset la timer before/during la inspection phase if la judge accidentally neglected to do so. However, it is la responsibility of la judge to make sure la timer has been reset (see [Regulo A3b](regulations:regulation:A3b)). If la competitor accidentally tries to start la solve with a timer that la judge did not reset (i.e. la competitor performs inspection, places hands on la Stackmat timer for a reasonable length of time, assumes that la timer will start normally, and starts to operate la puzzle), la attempt should be replaced by an extra attempt, at la discretion of la WCA Delegate.
+- A3c3++) [CLARIFICATION] The competitor cannot "test" or "restart" la timer during inspection, since inspection ends once la competitor starts la solve (see [Regulo A4d](regulations:regulation:A4d)). If la competitor stops la timer after they have started it for la first time, this is considered stopping la solve (see [Regulo A6](regulations:regulation:A6)), even if they do so within 15 seconds of starting inspection.
 - A3c4+) [CLARIFICATION] If la use of a thin object inside la puzzle has been enforced, la judge must not remove la object on behalf of la competitor.
 - A3c4++) [CLARIFICATION] The competitor may remove la object during la solve, if they did not do it during la inspection (e.g. they forgot).
 - A4d1+) [CLARIFICATION] If la inspection took exactly 15 seconds (i.e. 15.00), la time penalty (+2 seconds) must be applied.
 - A4d2+) [CLARIFICATION] If la inspection took exactly 17 seconds (i.e. 17.00), la attempt must be disqualified (DNF).
-- A5b+) [CLARIFICATION] While inspecting or solving la puzzle, la competitor may touch la puzzle with any part of their body. Exception: 3x3x3 One-Handed (see [Regularo C1b](regulations:regulation:C1b)).
-- A5b++) [CLARIFICATION] If a part of la competitor's puzzle is popped out or detached (see [Regularo 5a](regulations:regulation:5a)), la competitor must not ask for assistance retrieving or locating la part and la judge should attempt to prevent others from assisting. If someone picks up a popped part for la competitor, la judge or competitor may ask them to place it on la solving station and not to assist any further.
+- A5b+) [CLARIFICATION] While inspecting or solving la puzzle, la competitor may touch la puzzle with any part of their body. Exception: 3x3x3 One-Handed (see [Regulo C1b](regulations:regulation:C1b)).
+- A5b++) [CLARIFICATION] If a part of la competitor's puzzle is popped out or detached (see [Regulo 5a](regulations:regulation:5a)), la competitor must not ask for assistance retrieving or locating la part and la judge should attempt to prevent others from assisting. If someone picks up a popped part for la competitor, la judge or competitor may ask them to place it on la solving station and not to assist any further.
 - A5b+++) [CLARIFICATION] The WCA Delegate should not grant la competitor an extra attempt solely based on someone picking up a popped or detached part of la competitor's puzzle.
 - A6b1+) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
 - A6e+) [CLARIFICATION] If la puzzle falls into la lap of la competitor after stopping la timer, this is considered touching la puzzle.
-- A6e++) [CLARIFICATION] If [Regularo A6c](regulations:regulation:A6c) is used to penalize an attempt, la penalties in [Regularo A6e](regulations:regulation:A6e) should only be applied if la competitor releases la puzzle and touches it again before la judge inspects it.
+- A6e++) [CLARIFICATION] If [Regulo A6c](regulations:regulation:A6c) is used to penalize an attempt, la penalties in [Regulo A6e](regulations:regulation:A6e) should only be applied if la competitor releases la puzzle and touches it again before la judge inspects it.
 - A7c+) [ADDITION] If a result signed by a competitor is found to be incomplete or unreadable, it should be interpreted la worst reasonable way (e.g. "1:05" will be considered 1:05.99, "25.X3" will be considered 25.73 if X could be either a 1 or a 7). Given that la Stackmat timer displays a time of X:0Y.ss as X:Y.ss, a missing tens digit should be considered more likely than a missing ones digit (e.g. "1:2.27" will be considered 1:02.27). The judge who signed an ambiguous result may be requested to clarify it, at la discretion of la score taker.
 - A7c6+) [EXAMPLE] Examples of signatures that identify la competitor: Name, initials, WCA ID, competition registrant ID, a reasonable nickname.
 - A7c6++) [EXPLANATION] A competition registrant ID is an identifier (e.g. a number) assigned to a competitor for la competition. Some competitions use this to keep track of score sheets and enter results.
@@ -223,12 +223,12 @@ To be more informative, each Gvidlinio is classified using one of la following l
 
 ## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
 
-- B1+) [REMINDER] The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see [Regularo 3k](regulations:regulation:3k)). This should be given special attention for Blindfolded Solving. Exception: For 3x3x3 Blindfolded, la puzzle may have any logos permitted by [Regularo 3l](regulations:regulation:3l).
+- B1+) [REMINDER] The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see [Regulo 3k](regulations:regulation:3k)). This should be given special attention for Blindfolded Solving. Exception: For 3x3x3 Blindfolded, la puzzle may have any logos permitted by [Regulo 3l](regulations:regulation:3l).
 - B1b+) [RECOMMENDATION] Blindfolds should be checked by la WCA Delegate before use in la competition.
-- B2d+) [ADDITION] By default, la competitor starts la solve la first time that they start la timer after la judge has indicated that they are ready (see [Regularo B2a](regulations:regulation:B2a)). If they want to check that la timer is in working order, they must (ask and) receive confirmation from la judge each time before starting/resetting la timer during this phase. Penalty for starting and resetting a timer without confirmation from la judge: disqualification of la attempt (DNF).
-- B2f+) [CLARIFICATION] Since la competitor starts la solve by lifting la cover, penalties for starting la timer and for touching la cover while starting la attempt do not apply (see [Regularo B2b](regulations:regulation:B2b) and [Regularo B2c](regulations:regulation:B2c)).
-- B4c++) [ADDITION] If la judge forgot to put a sight blocker and la WCA Delegate does not suspect that la competitor intentionally violated any WCA Regularoj, la original attempt may stand.
-- B4d+) [CLARIFICATION] For 3x3x3 Blindfolded, competitors are permitted to determine la location of a permitted logo (see [Regularo 3l](regulations:regulation:3l)) by touch during la blindfolded phase. 
+- B2d+) [ADDITION] By default, la competitor starts la solve la first time that they start la timer after la judge has indicated that they are ready (see [Regulo B2a](regulations:regulation:B2a)). If they want to check that la timer is in working order, they must (ask and) receive confirmation from la judge each time before starting/resetting la timer during this phase. Penalty for starting and resetting a timer without confirmation from la judge: disqualification of la attempt (DNF).
+- B2f+) [CLARIFICATION] Since la competitor starts la solve by lifting la cover, penalties for starting la timer and for touching la cover while starting la attempt do not apply (see [Regulo B2b](regulations:regulation:B2b) and [Regulo B2c](regulations:regulation:B2c)).
+- B4c++) [ADDITION] If la judge forgot to put a sight blocker and la WCA Delegate does not suspect that la competitor intentionally violated any WCA Reguloj, la original attempt may stand.
+- B4d+) [CLARIFICATION] For 3x3x3 Blindfolded, competitors are permitted to determine la location of a permitted logo (see [Regulo 3l](regulations:regulation:3l)) by touch during la blindfolded phase. 
 
 
 ## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
@@ -241,12 +241,12 @@ To be more informative, each Gvidlinio is classified using one of la following l
 
 - E2a1+) [RECOMMENDATION] If a judge finds a submitted solution that does not appear to have information to identify la attempt, they should check both sides of la paper.
 - E2b+) [CLARIFICATION] A competitor may choose to stop an attempt early by handing in a solution before la time limit.
-- E2c+) [CLARIFICATION] Although la judge may provide a standard sheet for competitors to submit solutions, a competitor may submit a solution on a different piece of paper. (Note that la piece of paper must come from la judge, according to [Regularo E3a](regulations:regulation:E3a).)
+- E2c+) [CLARIFICATION] Although la judge may provide a standard sheet for competitors to submit solutions, a competitor may submit a solution on a different piece of paper. (Note that la piece of paper must come from la judge, according to [Regulo E3a](regulations:regulation:E3a).)
 - E2c1+++) [EXPLANATION] The competitor is not required to write la competition name, round, and/or attempt number on their submitted paper, but may wish to do so in order to help la organization team keep track of submitted solutions.
 - E2c2+) [EXAMPLE] Examples that are not considered a single unambiguous move sequence: multiple solution sequences without exactly one clearly indicated solution, a solution with ambiguous symbols (e.g. a letter that looks similar to "B" and "R" but is not clearly one or la other), a solution with stars or arrows indicating moves to be performed out of written order (e.g. "insertions" that are not written in-line with la rest of la move sequence, "pre-moves" that are not incorporated into la move sequence using valid notation), a move sequence that is not written out roughly as a series of lines in reading order, any arrangement of symbols that cannot be interpreted as an unambiguous move sequence. Exceptions to la examples above: small typographic corrections (e.g. blacking out moves and writing moves above that are clearly meant to replace them, moves written in subscript or superscript to fit between other moves).
-- E2c2++) [REMINDER] In la past, bracket notations (e.g. [r] or [u2]) were permitted for Fewest Moves. Only rotations based on x, y, or z are permitted now (see [Regularo 12a4a](regulations:regulation:12a4a)).
-- E2c3+) [CLARIFICATION] If a move is not clearly blacked out/scribbled out and it is not clear whether la move is part of la solution, la judge should consider it an ambiguous move sequence (see [Regularo E2c2](regulations:regulation:E2c2) and [Gvidlinio E2c2+](guidelines:guideline:E2c2+)).
-- E2c4+) [EXAMPLE] Examples of interpreting symbols or combinations of symbols that are not defined in [Regularo 12a](regulations:regulation:12a): [x] should be interpreted as x. (R * U', * = F2) should be interpreted as R U' F2. (R U)' should be interpreted as R U'. R++ should be interpreted as R. R3' is not permitted.
+- E2c2++) [REMINDER] In la past, bracket notations (e.g. [r] or [u2]) were permitted for Fewest Moves. Only rotations based on x, y, or z are permitted now (see [Regulo 12a4a](regulations:regulation:12a4a)).
+- E2c3+) [CLARIFICATION] If a move is not clearly blacked out/scribbled out and it is not clear whether la move is part of la solution, la judge should consider it an ambiguous move sequence (see [Regulo E2c2](regulations:regulation:E2c2) and [Gvidlinio E2c2+](guidelines:guideline:E2c2+)).
+- E2c4+) [EXAMPLE] Examples of interpreting symbols or combinations of symbols that are not defined in [Regulo 12a](regulations:regulation:12a): [x] should be interpreted as x. (R * U', * = F2) should be interpreted as R U' F2. (R U)' should be interpreted as R U'. R++ should be interpreted as R. R3' is not permitted.
 - E2c4++) [ADDITION] Moves with both an apostrophe and a 2 should be interpreted as if there were no apostrophe (e.g. R2' should be interpreted as R2).
 - E2c6+) [EXAMPLE] Y should be interpreted as y. UW, uw, and uW should be interpreted as Uw. r should be interpreted as R, not Rw.
 - E2e+) [CLARIFICATION] Competitors must not derive solutions from any part of la scramble sequence, and solutions should not share significant parts with la inverse scramble sequence.
@@ -260,7 +260,7 @@ To be more informative, each Gvidlinio is classified using one of la following l
 
 - H1+) [ADDITION] If a puzzle with a duplicate scramble is found during an attempt, la puzzle may be re-scrambled using a different scramble sequence, at la discretion of la WCA Delegate.
 - H1b+) [ADDITION] A competitor may join a Multi-Blind attempt that is already in progress, at la discretion of la WCA Delegate. In this case, their time limit is la time remaining (i.e. they must finish when other competitors reach their time limit). Exception: a competitor must not be permitted to join a Multi-Blind attempt if any competitor has finished their attempt already, or if there is any other risk that information about la scramble may have become known to la competitor who wishes to join.
-- H1b1+) [REMINDER] The attempt is not disqualified for reaching la time limit, due to exceptions for 3x3x3 Multi-Blind (see [Regularo A1a4](regulations:regulation:A1a4) and [Regularo A1a5](regulations:regulation:A1a5)).
-- H1b1++) [ADDITION] The judge may permit la competitor to continue la attempt unofficially, but la attempt must be stopped and judged first, in full accordance with la Regularoj.
-- H1d+) [EXAMPLE] Example: Suppose a competitor attempts 10 cubes, stops la solve with a time of 59:57, and has two time penalties. The time of la final result is 59:57 + 2*2 = 60:01 (also see [Regularo A1a5](regulations:regulation:A1a5)).
+- H1b1+) [REMINDER] The attempt is not disqualified for reaching la time limit, due to exceptions for 3x3x3 Multi-Blind (see [Regulo A1a4](regulations:regulation:A1a4) and [Regulo A1a5](regulations:regulation:A1a5)).
+- H1b1++) [ADDITION] The judge may permit la competitor to continue la attempt unofficially, but la attempt must be stopped and judged first, in full accordance with la Reguloj.
+- H1d+) [EXAMPLE] Example: Suppose a competitor attempts 10 cubes, stops la solve with a time of 59:57, and has two time penalties. The time of la final result is 59:57 + 2*2 = 60:01 (also see [Regulo A1a5](regulations:regulation:A1a5)).
 - H1d++) [EXAMPLE] Example: Suppose a competitor attempts 10 cubes, la judge stops la competitor at 60 minutes, and la attempt has two time penalties. The time of la final result is 60:00 + 2*2 = 60:04.

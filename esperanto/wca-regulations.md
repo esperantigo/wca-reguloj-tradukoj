@@ -1,4 +1,4 @@
-# <wca-title>WCA Regulations
+# <wca-title>WCA Reguloj
 
 <version>Version: January 1, 2025
 
@@ -10,29 +10,29 @@
 Please note that translations are not official versions, even though they are provided on the WCA website for convenience.
 If there is a difference between a translation and the (current official) English version, the English version must be used.
 
-### WCA Regulations and Guidelines
+### WCA Reguloj and Gvidlinioj
 
-The WCA Regulations contain the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.
-The WCA Regulations are also supplemented by the [WCA Guidelines](guidelines:top). The Regulations should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
+The WCA Reguloj contain the full set of Reguloj that apply to all official competitions sanctioned by the World Cube Association.
+The WCA Reguloj are also supplemented by the [WCA Gvidlinioj](guidelines:top). The Reguloj should be considered a complete document, but the Gvidlinioj contain additional clarifications and explanations.
 
 ### Wording
 Uses of the words "must", "must not", "should", "should not" and "may" match [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 ### Information on the Internet
 Website of World Cube Association: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
-Original source of the WCA Regulations: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
-WCA Regulations in [PDF format](link:pdf)
+Original source of the WCA Reguloj: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
+WCA Reguloj in [PDF format](link:pdf)
 
 ### Source
-Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/thewca/wca-regulations) and the discussion is public [on the WCA Forum](https://forum.worldcubeassociation.org/c/regulations).
+Development of the WCA Reguloj and Gvidlinioj is public [on GitHub](https://github.com/thewca/wca-regulations) and the discussion is public [on the WCA Forum](https://forum.worldcubeassociation.org/c/regulations).
 
 ### Contact
-For questions and feedback, please contact the [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
+For questions and feedback, please contact the [WCA Reguloj Committee (WRC)](mailto:wrc@worldcubeassociation.org).
 
 
 ## <contents> [Contents](regulations:contents)
 
-Note: Because Article and Regulation numbers are not reassigned when Regulations are deleted, there may be gaps in numbering.
+Note: Because Article and Regulation numbers are not reassigned when Reguloj are deleted, there may be gaps in numbering.
 
 <table-of-contents>
 
@@ -41,10 +41,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 - 1a) A competition must include a WCA Delegate and an organization team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
 - 1b) The organization team of a competition is responsible for logistics before, during, and after the competition.
-- 1c) The WCA Delegate is responsible for ensuring that the competition adheres to the WCA Regulations and any applicable WCA policies or requirements. The WCA Delegate may appoint other members of the organization team to carry out specific responsibilities on their behalf, but is ultimately accountable for how these responsibilities are carried out.
+- 1c) The WCA Delegate is responsible for ensuring that the competition adheres to the WCA Reguloj and any applicable WCA policies or requirements. The WCA Delegate may appoint other members of the organization team to carry out specific responsibilities on their behalf, but is ultimately accountable for how these responsibilities are carried out.
 - 1e) Each event must have one or more judges.
     - 1e1) A judge is responsible for executing the procedures of the event.
-        - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the WCA Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
+        - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the WCA Delegate, as long as the judge is able to ensure that all WCA Reguloj are followed at all times.
     - 1e2) Every competitor must be available for judging. If required to judge, a competitor may be excused only for a legitimate reason (e.g. being unfamiliar with a puzzle), at the discretion of the WCA Delegate. Penalty: disqualification from an event, multiple events, or all events at that competition (see [Regulation 2k](regulations:regulation:2k)).
 - 1f) Each event must have one or more scramblers. Exception: 3x3x3 Fewest Moves.
     - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts (see [Regulation A2](regulations:regulation:A2)).
@@ -63,7 +63,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-2><competitors><competitors> Article 2: Competitors
 
 - 2a) Any person may compete in a WCA competition if they:
-    - 2a1) Comply with WCA Regulations.
+    - 2a1) Comply with WCA Reguloj.
     - 2a2) Meet the competition requirements, which must be clearly announced before the competition.
     - 2a3) Are not suspended from participation by the WCA.
     - 2a4) Comply with all reasonable safety measures deemed necessary by the WCA Delegate, which must be clearly announced before the competition.
@@ -104,7 +104,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 2k2a) The WCA Delegate may disqualify any suspected results.
     - 2k3) Behaves in a way that is unlawful/violent/indecent/unsafe, or intentionally damages venue facilities or personal property within the venue.
     - 2k4) Distracts or interferes with others during the competition.
-    - 2k5) Fails to abide by WCA Regulations during the competition.
+    - 2k5) Fails to abide by WCA Reguloj during the competition.
     - 2k6) Does not fulfill the event's requirements (e.g. not knowing how to solve the puzzle). A competitor should not compete with the expectation of a DNF result or an intentionally poor result.
 - 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.
     - 2l1) A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.
@@ -112,9 +112,9 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2n1) Disputes are only permitted during the competition (see [Regulation 9u](regulations:regulation:9u)), within 30 minutes of the disputed incident and before the start of any following rounds of the relevant event.
     - 2n2) The WCA Delegate must resolve the dispute before the start of the next round of the event.
     - 2n3) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
-- 2s) Competitors with circumstances (e.g. disability) that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organization team and WCA Delegate at least two weeks before the competition.
-    - 2s1) Competitors whose circumstances result in it being impossible to follow regular competition procedures may have special accommodations. These cases should be brought up to the WCA Regulations Committee before being applied.
-- 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
+- 2s) Competitors with circumstances (e.g. disability) that may prevent them from abiding by one or more WCA Reguloj may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organization team and WCA Delegate at least two weeks before the competition.
+    - 2s1) Competitors whose circumstances result in it being impossible to follow regular competition procedures may have special accommodations. These cases should be brought up to the WCA Reguloj Committee before being applied.
+- 2t) Each competitor must be familiar with and understand the WCA Reguloj before the competition.
 - 2u) Competitors must be present and ready to compete when they are called to compete for an attempt. Penalty: disqualification from the event.
     - 2u1) Exception: A competitor who is not present in time for an individually scheduled attempt (e.g. a 3x3x3 Fewest Moves attempt, a 3x3x3 Multi-Blind attempt) may be considered to have declined that attempt (DNS), at the discretion of the WCA Delegate.
     - 2u2) Exception: For rounds with a cumulative time limit, a competitor who arrives late may compete with a reduced cumulative time limit, at the discretion of the WCA Delegate.
@@ -158,7 +158,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 3l1a) For Pyraminx and 2x2x2, the logo may be on any piece.
         - 3l1b) For Square-1, the logo must be on a piece in the equatorial slice.
     - 3l2) The logo may be embossed, engraved, or consist of an overlay sticker.
-- 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
+- 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Reguloj.
 
 
 ## <article-4><scrambling><scrambling> Article 4: Scrambling
@@ -205,7 +205,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 5b5b) If one part with one colored face is affected, the puzzle is considered solved.
         - 5b5c) If more than one part with one colored face is affected, the puzzle is considered unsolved (DNF).
         - 5b5d) If one or more parts with more than one colored face are affected, the puzzle is considered unsolved (DNF).
-        - 5b5e) Regulations [5b5c](regulations:regulation:5b5c) and [5b5d](regulations:regulation:5b5d) supersede [5b5a](regulations:regulation:5b5a) and [5b5b](regulations:regulation:5b5b).
+        - 5b5e) Reguloj [5b5c](regulations:regulation:5b5c) and [5b5d](regulations:regulation:5b5d) supersede [5b5a](regulations:regulation:5b5a) and [5b5b](regulations:regulation:5b5b).
         - 5b5f) If a part is partially detached or not fully placed, its final position is the closest position in which the affected piece would normally fit within the puzzle mechanism, considering the current state of the puzzle. If the final position renders the piece solved, the piece is not considered to be affected by the puzzle defect.
     - 5b6) Definition: A part is one or more fully connected components from a group of puzzle components that remain connected and do not move relative to each other during ordinary operation of the puzzle (e.g. a 3x3x3 center cap, a Pyraminx tip, a 3x3x3 corner piece missing one face, one face of a 3x3x3 corner piece).
 
@@ -270,7 +270,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
     - 9i1) The WCA recognizes the following types of regional records: national records, continental records, and world records.
     - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognized as breaking that regional record.
-    - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
+    - 9i3) If the WCA Reguloj for an event are changed, existing regional records stand until they are broken under the new WCA Reguloj.
 - 9j) Each event must be held at most once per competition.
 - 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the WCA Competition Announcement Team.
 - 9l) Each round must be completed before any following round of the same event can start. Exception: Extra attempts may be given at any point during a competition to replace an attempt that was initially invalid.
@@ -326,7 +326,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 11a2) Interference or facility interruptions (e.g. power failure, emergency alarm activation).
     - 11a3) Equipment malfunction.
 - 11b) If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.
-- 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make a decision based on fair sportsmanship (also see [Regulation 11e3](regulations:regulation:11e3)).
+- 11d) If the WCA Reguloj are not fully clear or if the incident is not covered by the WCA Reguloj, then the WCA Delegate must make a decision based on fair sportsmanship (also see [Regulation 11e3](regulations:regulation:11e3)).
 - 11e) The WCA Delegate may grant a competitor an extra attempt to replace an attempt affected by an incident. The competitor should appeal verbally or in writing to the judge and WCA Delegate at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
     - 11e1) If a competitor is granted an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using a current official version of an official WCA scramble program (see [Regulation 4f](regulations:regulation:4f)).
     - 11e2) If a competitor is granted an extra attempt, the extra attempt should be done right after the attempt that caused it, and must replace the original regularly numbered attempt.
@@ -341,7 +341,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 11f2a) The removal of any penalty originally assessed by the judge or WCA Delegate.
         - 11f2b) The application of a penalty according to [Regulation A3c1](regulations:regulation:A3c1), [Regulation A4b](regulations:regulation:A4b), or [Regulation A4b1](regulations:regulation:A4b1).
         - 11f2c) To investigate cheating (see [Regulation 2k](regulations:regulation:2k)).
-- 11g) The WCA Delegate must ensure that copies of the Regulations and Guidelines are available (e.g. printed, digital, or accessible via internet) to officials and competitors for consultation on any incidents.
+- 11g) The WCA Delegate must ensure that copies of the Reguloj and Gvidlinioj are available (e.g. printed, digital, or accessible via internet) to officials and competitors for consultation on any incidents.
 - 11h) A WCA Delegate may require competitors in serious violation of [Regulation 2k3](regulations:regulation:2k3) to leave the competition venue, taking into account the seriousness of the situation and the best possible course of action. If the competitor refuses to do so, they may face disciplinary action in the WCA.
 - 11i) If it is found that a competitor's puzzle was not scrambled correctly after they have completed their solve, the following regulations apply:
     - 11i1) In the following cases, an extra attempt must be granted to replace the affected attempt. If no extra attempt is granted, the result will be considered DNS:
@@ -570,7 +570,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - E3e) Other non-electronic aids that do not give an unfair advantage, at the discretion of the WCA Delegate (see [Regulation 2i1](regulations:regulation:2i1)).
     - E3f) Tools to remove markings (self-supplied), such as correction fluid, correction tape, or erasers.
 - E4) The WCA Delegate may choose to publish the solutions (e.g. photo of the score sheets or transcriptions of solutions).
-- E5) The competitor must not communicate with anyone other than the WCA Delegate or the judge. This communication should be about the WCA Regulations and the competitor must not receive assistance deriving their solution. Penalty: disqualification of the attempt (DNF).
+- E5) The competitor must not communicate with anyone other than the WCA Delegate or the judge. This communication should be about the WCA Reguloj and the competitor must not receive assistance deriving their solution. Penalty: disqualification of the attempt (DNF).
 - E6) A competitor may join a 3x3x3 Fewest Moves attempt that is already in progress, at the discretion of the WCA Delegate. Exception: a competitor must not be permitted to join an ongoing attempt in the following cases:
     - E6a) A competitor has finished their attempt already (see [Guideline E2b+](guidelines:guideline:E2b+)).
     - E6b) The attempt takes place in a competition with multiple physical locations (i.e. "3x3x3 Fewest Moves simultaneous competitions").
